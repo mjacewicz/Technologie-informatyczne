@@ -98,3 +98,10 @@ a. antagonistycznych b. nieantagonistycznych
 
 9. Opisz przepływ energii w ekosystemie:
 10.  Wyjaśnij przyczyny i skutki kwaśnych deszczów.
+11.  
+
+
+
+
+
+https://support.codebasehq.com/articles/getting-started/getting-started
