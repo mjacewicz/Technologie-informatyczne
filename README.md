@@ -1,5 +1,6 @@
 # Technologie-informatyczne
 Praca klasowa z ekologii.
+
 1. Wyjaśnij podane pojęcia ekologiczne łącząc w pary:
 
 1. gatunek a. miejsce „zamieszkania” organizmu
