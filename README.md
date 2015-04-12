@@ -97,4 +97,4 @@ Jest przykładem stosunków:
 a. antagonistycznych b. nieantagonistycznych
 
 9. Opisz przepływ energii w ekosystemie:
-10.  Wyjaśnij przyczyny i skutki kwaśnych opadów.
+10.  Wyjaśnij przyczyny i skutki kwaśnych deszczów.
