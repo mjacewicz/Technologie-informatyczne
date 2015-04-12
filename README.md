@@ -32,6 +32,9 @@ d) glony - rozwielitki - płoć - szczupak
 
 6. Używając znaku 0, przedstaw za pomocą rysunku populację dębu szypułkowego rozmieszczenie – skupiskowe, 
 
+
+
+
 7. W szkole nr XX jednorazowo przebywa 500 uczniów, 20 nauczycieli i 10 pracowników administracji. Powierzchnia użytkowa szkoły wynosi 1000m2 . Podaj cechy populacji ludzi w szkole.
 a. liczebność........................................
 b. zagęszczenie........................................
@@ -79,6 +82,9 @@ c) żyto - myszołów - bakterie
 d) okrzemki - oczliki - krewetki - śledzie
 
 6. Używając znaku 0 przedstaw za pomocą rysunku populację dębu szypułkowego rozmieszczenie – równomierne,
+
+
+
 
 7. W szkole nr XX jednorazowo przebywa 800 uczniów, 30 nauczycieli i 10 pracowników administracji. Powierzchnia użytkowa szkoły wynosi 2000m2 . Podaj cechy populacji ludzi w szkole.
 a. liczebność........................................
