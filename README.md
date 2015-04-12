@@ -29,9 +29,7 @@ b) pająk - osa - szpak - jastrząb
 c) żyto - nornik zwyczajny - myszołów - bakterie
 d) glony - rozwielitki - płoć - szczupak
 
-6. Używając znaków (mały dąb – o, stary dąb - O), przedstaw za pomocą rysunku populację dębu szypułkowego. Cechy tej populacji: 
-- rozmieszczenie – skupiskowe, 
-- struktura wiekowa – populacja rozwijająca się.
+6. Używając znaku 0, przedstaw za pomocą rysunku populację dębu szypułkowego rozmieszczenie – skupiskowe, 
 
 7. W szkole nr XX jednorazowo przebywa 500 uczniów, 20 nauczycieli i 10 pracowników administracji. Powierzchnia użytkowa szkoły wynosi 1000m2 . Podaj cechy populacji ludzi w szkole.
 a. liczebność........................................
@@ -44,7 +42,8 @@ Jest przykładem stosunków:
 a. antagonistycznych
 b. nieantagonistycznych
 
-9. Narysuj i opisz schemat obiegu materii w ekosystemie:
+9.Opisz obieg materii w ekosystemie:
+10. Wyjaśnij przyczyny i skutki dziury ozonowej.
 
 
 Grupa B
@@ -78,9 +77,7 @@ b) igły sosny - mszyce - biedronki - bakterie
 c) żyto - myszołów - bakterie
 d) okrzemki - oczliki - krewetki - śledzie
 
-6. Używając znaków (mały dąb – o, stary dąb - O), przedstaw za pomocą rysunku populację dębu szypułkowego. Cechy tej populacji:
-- rozmieszczenie – równomierne,
-- struktura wiekowa – populacja ustabilizowana.
+6. Używając znaku 0 przedstaw za pomocą rysunku populację dębu szypułkowego rozmieszczenie – równomierne,
 
 7. W szkole nr XX jednorazowo przebywa 800 uczniów, 30 nauczycieli i 10 pracowników administracji. Powierzchnia użytkowa szkoły wynosi 2000m2 . Podaj cechy populacji ludzi w szkole.
 a. liczebność........................................
@@ -92,4 +89,5 @@ d. rozmieszczenie w czasie przerwy.................................
 Jest przykładem stosunków:
 a. antagonistycznych b. nieantagonistycznych
 
-9. Narysuj i opisz schemat obiegu materii w ekosystemie:
+9. Opisz przepływ energii w ekosystemie:
+10.  Wyjaśnij przyczyny i skutki kwaśnych opadów.
